@@ -1,2 +1,2 @@
 # SystemVerilog_cookbook
-Knowledge and gotchas of SystemVerilog
+A notebook which recode the knowledge and gotchas of SystemVerilog
